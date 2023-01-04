@@ -37,12 +37,12 @@ a {
 }
 .nav li{
 
-   border-width: 2px; 
+   border-width: 3px; 
    border-style: solid;
    border-color: rgb(0, 0, 0);
    display: flex;
    background-color: rgb(255, 255, 255);
-   padding: 10px;
+   padding: 5px;
    margin: 5px;
    font-size: 20px;
    font-family: 'Orbitron', sans-serif;   
